@@ -1,5 +1,7 @@
 # Frontend Mentor - Interactive rating component
 
+VEJA COMO FICOU O RESULTADO: https://matheusmorilha.github.io/interactive-rating-component-main/
+
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
