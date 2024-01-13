@@ -122,6 +122,7 @@ body{
     width: 85%;
     height: 5.5vh;
     border-radius: 30px;
+    border: none;
 }
 
 .button:hover{
