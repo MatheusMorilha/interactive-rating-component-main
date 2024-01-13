@@ -1,0 +1,125 @@
+@media (max-width: 620px){
+    .container{
+        width: 420px;
+        height: 440px;
+    }
+
+    .circleStar{
+        width: 50px;
+        height: 50px;
+    }
+
+    .circleStar>img{
+        width: 18px;
+        height: 17px;
+    }
+
+    .ask>p{
+        font-size: 27px;
+        color: hsl(0, 0%, 100%);
+    }
+
+    .text>p{
+        font-size: 17px;
+        color: hsl(217, 12%, 63%);
+        width: 80%;
+        line-height: 27px;
+    }
+
+    .circle{
+        font-size: 18px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .button{
+        font-size: 14px;
+        letter-spacing: 2px;
+        width: 82%;
+        height: 7vh;
+        border-radius: 30px;
+    }
+
+    .containerThanks{
+        width: 430px;
+        height: 430px;
+        border-radius: 40px;
+    }
+
+    @media (max-width: 540px){
+        .container{
+            width: 300px;
+            height: 310px;
+            border-radius: 15px;
+        }
+    
+        .circleStar{
+            width: 33px;
+            height: 33px;
+        }
+    
+        .circleStar>img{
+            width: 12px;
+            height: 12px;
+        }
+    
+        .ask>p{
+            font-size: 22px;
+            color: hsl(0, 0%, 100%);
+        }
+    
+        .text>p{
+            font-size: 12px;
+            color: hsl(217, 12%, 63%);
+            width: 80%;
+            line-height: 18px;
+        }
+    
+        .circle{
+            font-size: 15px;
+            width: 35px;
+            height: 35px;
+        }
+    
+        .button{
+            font-size: 12px;
+            letter-spacing: 2px;
+            width: 82%;
+            height: 6vh;
+            border-radius: 30px;
+        }
+
+        .containerThanks{
+            width: 300px;
+            height: 310px;
+            border-radius: 15px;
+        }
+
+        .image>img{
+            width: 120px;
+        }
+
+        .result{
+            width: 43%;
+            height: 25px;
+        }
+
+        .result>p{
+            font-size: 10px;
+        }
+
+        .title>h2{
+            font-size: 24px;
+        }
+
+        .textThanks>p{
+            line-height: 19px;
+            font-size: 13px;
+            color: hsl(217, 12%, 63%);
+        }
+    
+
+    }
+
+}
+
